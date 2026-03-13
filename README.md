@@ -44,7 +44,7 @@ Focus areas:
 
 ## Professional Work
 
-At work in the Space and Defense sector, I develop automated testing software used to validate **mission-critical hardware components**.
+At work in the Space and Defense sector, I develop automated testing software used to validate **mission-critical hardware components**. Going the extra mile, I assist in curating test racks that align with the specific hardware's needs
 
 These systems focus on:
 - automated hardware validation
