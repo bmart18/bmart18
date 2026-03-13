@@ -33,7 +33,7 @@ Focus areas:
 - AI-assisted analysis
 
 ### VWAP Auto Trader
-An algo-trading bot that looks for a combination of signals and places market orders based upon previous automated paper training. 
+An algo-trading bot that looks for a combination of signals and places market orders based upon previous automated paper trading data. 
 
 Focus areas:
 - set it and forget it
