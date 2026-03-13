@@ -25,12 +25,13 @@ https://workdayboredombuster.com
 ## Other Projects
 
 ### Acrelytic
-An AI-powered real estate intelligence platform designed to identify undervalued or off-market properties by analyzing geospatial and infrastructure data.
+An AI-powered real estate intelligence platform designed to identify all characteristics of a neighborhood by analyzing geospatial and infrastructure data.
 
 Focus areas:
 - geospatial data pipelines
 - automated property intelligence reports
 - AI-assisted analysis
+- some characteristics included are nearby school, crime data, noise pollution, average income/age/house-price, affordability metrics, and many more
 
 ### VWAP Auto Trader
 An algo-trading bot that looks for a combination of signals and places market orders based upon previous automated paper trading data. 
