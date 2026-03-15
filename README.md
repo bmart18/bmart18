@@ -1,4 +1,5 @@
-# Brad Martin
+![Alt Text](excel.gif)
+---
 
 Software developer focused on automation, backend systems, and practical tools that make everyday work easier.
 
