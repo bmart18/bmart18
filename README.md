@@ -43,7 +43,7 @@ Focus areas:
 - ability to easily switch between paper/live, and multiple platforms
 
 ### Home Automation System
-A fully custom home automation ecosystem built around Home Assistant, integrating bnoth off-the-shelf and self-built sensors/hardware
+A fully custom home automation ecosystem built around Home Assistant, integrating both off-the-shelf and self-built sensors/hardware
 
 This systems aggregates data from thermostats, security cameras, custom ESP-32 based sensors (temperature, humidity, motion), and external api's for outdoor weather/forecast, and commute times. This data is then neatly injected into a custom dashboard, where an image is created and published.
 
