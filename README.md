@@ -42,6 +42,19 @@ Focus areas:
 - algorithmic training and building
 - ability to easily switch between paper/live, and multiple platforms
 
+### Home Automation System
+A fully custom home automation ecosystem built around Home Assistant, integrating bnoth off-the-shelf and self-built sensors/hardware
+
+This systems aggregates data from thermostats, security cameras, custom ESP-32 based sensors (temperature, humidity, motion), and external api's for outdoor weather/forecast, and commute times. This data is then neatly injected into a custom dashboard, where an image is created and published.
+
+Displaying this information is done through a custom Brightscript application sideloaded onto a Roku TV. The home automation system automatically turns this tv on/off and opens the application, no user intervention necessary.
+
+Focus areas:
+- IoT system design
+- Embedded development (ESP32)
+- real-time data aggregation
+- custom display platforms (Brightscript / Roku)
+
 ---
 
 ## Professional Work
