@@ -24,8 +24,10 @@ https://workdayboredombuster.com
 ---
 
 ## Other Projects
+<a href="https://acrelytic.com">
+  <img src="AcrelyticBannerLight.png"  width="250" />
+</a>
 
-### Acrelytic
 An AI-powered real estate intelligence platform designed to identify all characteristics of a neighborhood by analyzing geospatial and infrastructure data.
 
 Focus areas:
@@ -47,9 +49,10 @@ A fully custom home automation ecosystem built around Home Assistant, integratin
 
 This systems aggregates data from thermostats, security cameras, custom ESP-32 based sensors (temperature, humidity, motion), and external api's for outdoor weather/forecast, and commute times. This data is then neatly injected into a custom dashboard, where an image is created and published.
 
+<img src="dashboard_blur.png" align="right" width="400" height="250" /> 
+
 Displaying this information is done through a custom Brightscript application sideloaded onto a Roku TV. The home automation system automatically turns this tv on/off and opens the application, no user intervention necessary.
 
-<img src="dashboard_blur.png" align="right" width="400" height="250" />
 
 **Focus areas:**
 - IoT system design
