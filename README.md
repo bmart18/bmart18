@@ -49,12 +49,13 @@ This systems aggregates data from thermostats, security cameras, custom ESP-32 b
 
 Displaying this information is done through a custom Brightscript application sideloaded onto a Roku TV. The home automation system automatically turns this tv on/off and opens the application, no user intervention necessary.
 
-Focus areas:
+<img src="dashboard_blur.png" align="right" width="400" height="250" />
+
+**Focus areas:**
 - IoT system design
 - Embedded development (ESP32)
-- real-time data aggregation
-- custom display platforms (Brightscript / Roku)
-
+- Real-time data aggregation
+- Custom display platforms (Brightscript / Roku)
 ---
 
 ## Professional Work
