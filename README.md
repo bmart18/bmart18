@@ -1,4 +1,4 @@
-![Alt Text](excel2.gif)
+![Alt Text](excel3.gif)
 ---
 
 Software developer focused on automation, backend systems, and practical tools that make everyday work easier.
