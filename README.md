@@ -43,7 +43,7 @@ Focus areas:
 - set it and forget it
 - algorithmic training and building
 - ability to easily switch between paper/live, and multiple platforms <br>
-<img src="icon.png" width="50" />  <img src="schwab.png" width="50" />       
+<img src="icon.png" width="50" />  <img src="schwab.png" width="50" />   <img src="binance.png" width="50" />    
 
 ### Home Automation System
 A fully custom home automation ecosystem built around Home Assistant, integrating both off-the-shelf and self-built sensors/hardware
