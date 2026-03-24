@@ -43,6 +43,8 @@ Focus areas:
 - set it and forget it
 - algorithmic training and building
 - ability to easily switch between paper/live, and multiple platforms <br>
+
+<ins>Supported Platforms</ins><br>
 <img src="icon.png" width="50" />  <img src="schwab.png" width="50" />   <img src="binance.png" width="50" />    
 
 ### Home Automation System
