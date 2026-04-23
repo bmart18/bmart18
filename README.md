@@ -7,19 +7,11 @@ Software developer focused on automation, backend systems, and practical tools t
 
 ## Featured Project
 
-### Workday Boredom Buster
-A browser-based game disguised as productivity software.
+## War Drive Dashboard
 
-The application simulates realistic professional environments (spreadsheets, IDEs, terminals) while hiding lightweight games underneath. The goal is simple: make something that *looks like work* while secretly being entertainment.
+An interactive, full-stack web dashboard for visualising and annotating wardriving logs. Accepts .log or .csv files, explores networks on a live Leaflet map, search/filter the full data table, and leave persistent notes on individual entries.
 
-Examples include:
-- Spreadsheet-style games hidden inside grid cells
-- IDE typing challenges
-- Terminal-based puzzles
-
-Runs entirely in the browser with no backend or data storage.
-
-https://workdayboredombuster.com
+Additionally, estimate area where network exists using Path-loss trilateration. Currently working on a Kalman-inspired Gauss-Newton refinement that iterates weighted least-squares updates, re-linearized around the current position.
 
 ---
 
@@ -62,6 +54,20 @@ Displaying this information is done through a custom Brightscript application si
 - Embedded development (ESP32)
 - Real-time data aggregation
 - Custom display platforms (Brightscript / Roku)
+
+### Workday Boredom Buster
+A browser-based game disguised as productivity software.
+
+The application simulates realistic professional environments (spreadsheets, IDEs, terminals) while hiding lightweight games underneath. The goal is simple: make something that *looks like work* while secretly being entertainment.
+
+Examples include:
+- Spreadsheet-style games hidden inside grid cells
+- IDE typing challenges
+- Terminal-based puzzles
+
+Runs entirely in the browser with no backend or data storage.
+
+https://workdayboredombuster.com
 ---
 
 ## Professional Work
