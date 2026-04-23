@@ -14,8 +14,7 @@ An interactive, full-stack web dashboard for visualising and annotating wardrivi
 This system estimates access point locations using RSSI-based trilateration (distance-based localization, and the inverse of the left figure). Distances are derived from a path-loss model and used to compute an initial position estimate, which is then refined via iterative weighted least-squares (Gauss–Newton, right figure).
 
 <p align="center">
-  <img src="tri.jpg" height="250" />
-  <img src="contour.jpeg" height="250" />
+  <img src="Path-Loss-Example.png" width="600" />
 </p>
 
 ---
