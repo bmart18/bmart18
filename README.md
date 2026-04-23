@@ -11,7 +11,9 @@ Software developer focused on automation, backend systems, and practical tools t
 
 An interactive, full-stack web dashboard for visualising and annotating wardriving logs. Accepts .log or .csv files, explores networks on a live Leaflet map, search/filter the full data table, and leave persistent notes on individual entries.
 
-Additionally, estimate area where network exists using Path-loss trilateration. Currently working on a Kalman-inspired Gauss-Newton refinement that iterates weighted least-squares updates, re-linearized around the current position.
+This system estimates access point locations using RSSI-based trilateration (distance-based localization). Distances are derived from a path-loss model and used to compute an initial position estimate, which is then refined via iterative weighted least-squares (Gauss–Newton).
+
+![Alt Text](countour.jpeg) ![Alt Text](tri.jpg)
 
 ---
 
