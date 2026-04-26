@@ -12,11 +12,12 @@ Software developer focused on automation, backend systems, and practical tools t
 An interactive, full-stack web dashboard for visualising and annotating wardriving logs. Accepts .log or .csv files, explores networks on a live Leaflet map, search/filter the full data table, and leave persistent notes on individual entries.
 
 This system estimates access point locations using RSSI-based trilateration (distance-based localization, and the inverse of the left figure). Distances are derived from a path-loss model and used to compute an initial position estimate, which is then refined via iterative weighted least-squares (Gauss–Newton, right figure).
-<!--
-<p align="center">
-  <img src="Refined-Example.png" width="600" />
+
+<p >
+  <img align="left" src="Location-Estimation(1).png" height="250" />
+  <img src="drive-dashboard.PNG" height="250" />
 </p>
--->
+
 ---
 
 ## Other Projects
