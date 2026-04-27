@@ -14,8 +14,8 @@ An interactive, full-stack web dashboard for visualising and annotating wardrivi
 This system estimates access point locations using RSSI-based trilateration (distance-based localization, and the inverse of the left figure). Distances are derived from a path-loss model and used to compute an initial position estimate, which is then refined via iterative weighted least-squares (Gauss–Newton, right figure).
 
 <p >
-  <img align="left" src="Location-Estimation(1).png" height="240" />
-  <img src="drive-dashboard.PNG" height="240" />
+  <img align="left" src="Location-Estimation(1).png" height="225" />
+  <img src="drive-dashboard.PNG" height="225" />
 </p>
 
 ---
