@@ -32,6 +32,8 @@ Focus areas:
 - automated property intelligence reports
 - AI-assisted analysis
 - some characteristics included are nearby school, crime data, noise pollution, average income/age/house-price, affordability metrics, and many more
+  
+---
 
 ### VWAP Auto Trader
 An algo-trading bot that looks for a combination of signals and places market orders based upon previous automated paper trading data. 
@@ -43,6 +45,8 @@ Focus areas:
 
 <ins>Supported Platforms</ins><br>
 <img src="icon.png" width="50" />  <img src="schwab.png" width="50" />   <img src="binance.png" width="50" />    
+
+---
 
 ### Home Automation System
 A fully custom home automation ecosystem built around Home Assistant, integrating both off-the-shelf and self-built sensors/hardware
@@ -59,6 +63,8 @@ Displaying this information is done through a custom Brightscript application si
 - Embedded development (ESP32)
 - Real-time data aggregation
 - Custom display platforms (Brightscript / Roku)
+  
+---
 
 ### Workday Boredom Buster
 A browser-based game disguised as productivity software.
@@ -73,6 +79,7 @@ Examples include:
 Runs entirely in the browser with no backend or data storage.
 
 https://workdayboredombuster.com
+
 ---
 
 ## Professional Work
